@@ -2,5 +2,5 @@
 export default defineNuxtConfig({
   modules: ["@nuxtjs/tailwindcss", "@vueuse/nuxt"],
   ssr: false,
-  devtools: { enabled: true },
+  devtools: { enabled: false },
 });
