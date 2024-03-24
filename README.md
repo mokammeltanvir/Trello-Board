@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# Trello Board - Vue Nuxt
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+The Trello Board project is a web application built with Vue.js and Nuxt.js that allows users to organize tasks and manage projects effectively using a Trello-like interface. Users can create, edit, and move tasks across different columns to track progress and collaborate with team members efficiently.
+
+## Screenshots
+
+![App Screenshot](/TrelloBoaord.gif)
 
 ## Setup
 
